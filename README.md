@@ -1,2 +1,2 @@
-# Dev.HelenOliveira.github.io
+# HelenOliveira.github.io
 Portfólio de Projetos Git Github
